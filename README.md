@@ -20,9 +20,9 @@
     
   </p>
   
-  <p align='center'>
+<!--   <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vinicius-92&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  </p>
+  </p> -->
   
   <p align='center'>
     💻 My favorite technologies<br/><br/>
