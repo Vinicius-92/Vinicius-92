@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**Vinicius-92/Vinicius-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'>
+    Hi there 👋 I'm Vinicius Augusto.
+  </h1>
+  
+  <p align='center'>
+    A Java Junior Developer from Limeira, São Paulo.
+  </p>
+  
+  
+  
+  <p align='center'>
+    <a href="https://api.whatsapp.com/send?phone=5519996359084">
+      <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+    </a>
+    <a href="https://www.linkedin.com/in/vinicius-92/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    
+  </p>
+  
+  <p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vinicius-92&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  </p>
+  
+  <p align='center'>
+    💻 My favorite technologies<br/><br/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+   
+  </p>
+  
+  
+  <p align='center'>
+    📫 You can reach me at: <a href='mailto:vinicius_augusto_@msn.com'>vinicius_augusto_@msn.com</a>
+  </p>
+  <p align='center'>
+    <a href="#"><img src="https://badges.pufler.dev/visits/vinicius-92/vinicius-92"></a> horror movies fans have seen this.</p>
+  
+  
