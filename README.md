@@ -43,5 +43,3 @@
   </p>
   <p align='center'>
     <a href="#"><img src="https://badges.pufler.dev/visits/vinicius-92/vinicius-92"></a> horror movies fans have seen this.</p>
-  
-  
