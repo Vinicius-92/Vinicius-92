@@ -5,10 +5,8 @@
   </h1>
   
   <p align='center'>
-    A Java Junior Developer from Limeira, São Paulo.
+    A developer from Limeira, São Paulo.
   </p>
-  
-  
   
   <p align='center'>
     <a href="https://api.whatsapp.com/send?phone=5519996359084">
@@ -20,7 +18,7 @@
     
   </p>
   
-<!--   <p align='center'>
+  <!-- <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vinicius-92&show_icons=true&count_private=true&theme=dark" width="350"></a>
   </p> -->
   
