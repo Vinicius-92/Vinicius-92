@@ -19,10 +19,11 @@
     
   </p>
   
-  <!-- <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vinicius-92&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  </p> -->
+  <p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-92&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript,Shell,Dockerfile&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark"></a>
+  </p>
   
+
   <p align='center'>
     💻 My favorite technologies<br/><br/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
