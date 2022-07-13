@@ -20,7 +20,7 @@
   </p>
   
   <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-92&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript,Shell,Dockerfile,SCSS&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-92&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript,Shell,Dockerfile,SCSS,Jupyter Notebook&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark"></a>
   </p>
   
 
