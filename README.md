@@ -20,7 +20,7 @@
   </p>
   
   <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-92&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript,Shell,Dockerfile,SCSS,Jupyter Notebook&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-92&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript,Shell,Dockerfile,SCSS,Jupyter%20Notebook&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark">
   </p>
   
 
@@ -46,5 +46,5 @@
   <p align='center'>
     📫 You can reach me at: <a href='mailto:vinicius_augusto_@msn.com'>vinicius_augusto_@msn.com</a>
   </p>
-  <p align='center'>
-    <a href="#"><img src="https://badges.pufler.dev/visits/vinicius-92/vinicius-92"></a> horror movies fans have seen this.</p>
+<!--   <p align='center'>
+    <a href="#"><img src="https://badges.pufler.dev/visits/vinicius-92/vinicius-92"></a> horror movies fans have seen this.</p> -->
