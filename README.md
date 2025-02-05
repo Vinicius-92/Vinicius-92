@@ -36,7 +36,7 @@
   
   
   <p align='center'>
-    📫 You can reach me at: <a href='mailto:vinicius_augusto_@msn.com'>vinicius_augusto_@msn.com</a>
+    📫 You can reach me at: <a href='mailto:vinicius_augusto_@msn.com'>vinicius92as@gmail.com</a>
   </p>
 <!--   <p align='center'>
     <a href="#"><img src="https://badges.pufler.dev/visits/vinicius-92/vinicius-92"></a> horror movies fans have seen this.</p> -->
