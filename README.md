@@ -16,14 +16,6 @@
     <a href="https://www.linkedin.com/in/vinicius-92/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    
-  </p>
-  
-  <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-92&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript,Shell,Dockerfile,SCSS,Jupyter%20Notebook&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark">
-  </p>
-  
-
   <p align='center'>
     💻 My favorite technologies<br/><br/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
